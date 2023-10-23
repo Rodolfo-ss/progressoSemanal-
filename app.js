@@ -23,6 +23,7 @@ Pra essa semana:
 Meta pra restante semana: 
 
 1 - Wakatime 7 Horas por dia(no minimo)
+2 - React, dar uma boa atenção no react
 
 */
 
