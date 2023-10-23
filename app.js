@@ -19,13 +19,14 @@ Pra essa semana:
 3 - Fazer 30 minutos por dia de revisão JS (Muito importante)
 4 - Dar mais um 'pega' no meu portifolio
 5 - Subir pro gitHub todos os dias(Sem falhar)
+6 - Finalizar o curso AdaTech frontEnd
 
 Meta pra restante semana: 
 
 1 - Wakatime 7 Horas por dia(no minimo)
 2 - React, dar uma boa atenção no react
 3 - SDPs, trazer o metodo do SDPs pra sua realidade.
-
+4 - Postar o certificado  
 
 */
 
