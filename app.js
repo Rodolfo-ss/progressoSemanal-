@@ -20,7 +20,7 @@ Pra essa semana:
 4 - Dar mais um 'pega' no meu portifolio
 5 - Subir pro gitHub todos os dias(Sem falhar)
 
-
+Meta pra restante semana: 
 
 */
 
