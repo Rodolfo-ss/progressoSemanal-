@@ -27,7 +27,7 @@ Meta pra restante semana:
 2 - React, dar uma boa atenção no react
 3 - SDPs, trazer o metodo do SDPs pra sua realidade.
 4 - Postar o certificado do AdaTech no Linkedin
-
+5 - Apagar sempre que concluir uma meta
 */
 
 
