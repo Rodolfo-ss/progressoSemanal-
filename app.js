@@ -22,7 +22,7 @@ Pra essa semana: Em ordem de importancia
 
 Meta pra restante semana: 
 
-1 - Wakatime 7 Horas por dia(no minimo)
+1 - Wakatime 7 Horas por dia(no minimo)check hoje
 2 - React, dar uma boa atenção no react
 3 - SDPs, trazer o metodo do SDPs pra sua realidade.
 4 - Postar o certificado do AdaTech no Linkedin
