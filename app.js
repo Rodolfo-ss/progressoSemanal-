@@ -3,8 +3,7 @@ Progresso semanal:
 
 1 - Criei uma nova branch e subi pra la uns repositorios.
 2 - Criei alguns testes de Ruby.
-4 - Estou entendendo melhor o react
-5 - Fiz mais de 5 horas no wakatime, sabado, domingo e segunda respectivamente. 
+5 - Fiz mais de 6 horas no wakatime, sabado, domingo e segunda respectivamente. 
 
 */
 
