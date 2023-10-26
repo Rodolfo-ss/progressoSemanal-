@@ -12,7 +12,7 @@ Progresso semanal:
 Marque como feito após e apague:
 
 Pra essa semana: Em ordem de importancia
-1 - Concluir o curso Rspec testes
+1 - Concluir o curso Rspec testes. checked
 2 - React => Fazer as configuraçoes para o uso do react
 3 - Fazer 30 minutos por dia de revisão JS (Muito importante)
 4 - Dar mais um 'pega' no meu portifolio
