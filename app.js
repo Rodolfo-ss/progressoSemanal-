@@ -3,7 +3,6 @@ Progresso semanal:
 
 1 - Criei uma nova branch e subi pra la uns repositorios.
 2 - Criei alguns testes de Ruby.
-3 - Entendi  muito bem o curso de Respec do SDPs
 4 - Estou entendendo melhor o react
 5 - Fiz mais de 5 horas no wakatime, sabado, domingo e segunda respectivamente. 
 
