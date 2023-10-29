@@ -1,10 +1,11 @@
 /*
-Progresso semanal:
+Novos objetivos:
 
 1 - Missao vaga
 2 - Revisao CJRM
 3 - Crud
 4 - Pull request e branchs 
+
 
 */
 
