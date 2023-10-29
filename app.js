@@ -16,7 +16,7 @@ Pra essa semana: Em ordem de importancia
 3 - Fazer 30 minutos por dia de revisão JS (Muito importante)
 5 - Subir pro gitHub todos os dias(Sem falhar)
 
-Meta pra restante semana: 
+Meta para todas semanas: 
 
 1 - Wakatime 7 Horas por dia(no minimo)check hoje
 2 - React, dar uma boa atenção no react
