@@ -12,9 +12,8 @@ Progresso semanal:
 Marque como feito após e apague:
 
 Pra essa semana: Em ordem de importancia
-2 - React => Fazer as configuraçoes para o uso do react()
+2 - React => Fazer as configuraçoes para o uso do react(amanha)
 3 - Fazer 30 minutos por dia de revisão JS (Muito importante)
-4 - Dar mais um 'pega' no meu portifolio
 5 - Subir pro gitHub todos os dias(Sem falhar)
 
 Meta pra restante semana: 
