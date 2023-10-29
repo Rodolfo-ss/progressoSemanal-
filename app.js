@@ -1,8 +1,9 @@
 /*
 Progresso semanal:
 
-1- Missao vaga
+1 - Missao vaga
 2 - Revisao CJRM
+3 - Crud
 
 */
 
