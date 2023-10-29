@@ -5,7 +5,7 @@ Novos objetivos:
 2 - Revisao CJRM
 3 - Crud
 4 - Pull request e branchs 
-
+5 - Quando for fazer portifolio faça tudo de uma vez
 
 */
 
