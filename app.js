@@ -23,7 +23,7 @@ Meta para todas semanas:
 
 1 - Wakatime 7 Horas por dia(no minimo)checkd hoje
 2 - React, dar uma boa atenção no react
-3 - SDPs, trazer o metodo do SDPs pra sua realidade.
+3 - SDPs, trazer o metodo do SDPs para Javascript.
 5 - Apagar sempre que concluir uma meta
 */
 
