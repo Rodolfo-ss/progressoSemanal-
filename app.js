@@ -11,7 +11,15 @@ A fazer =>
 */
 
 /*
- 
+
+Fazer está semana: 
+
+1 - Continuar o CJRM
+2 - Fazer o SuperDesenvolvedor no JS
+3 - Dar um pega no Portifolio
+4 - Começar a aprender react 
+
+
 Marque como feito após e apague:
 
 Pra essa semana: Em ordem de importancia
