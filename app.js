@@ -12,7 +12,10 @@ A fazer =>
 
 /*
 
-Fazer está semana: 
+
+Voltar a focar na programação, apostar so na hora de apostar.
+
+Foco essa semana => fazer está semana: 
 
 1 - Continuar o CJRM - CHECKED
 2 - Fazer o SuperDesenvolvedor no JS - CHECKED
