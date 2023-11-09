@@ -16,6 +16,7 @@ Fazer está semana:
 
 1 - Continuar o CJRM - CHECKED
 2 - Fazer o SuperDesenvolvedor no JS - CHECKED
+2 - Fazer o SuperDesenvolvedor com Ruby - CHECKED
 3 - Dar um pega no Portifolio
 4 - Começar a aprender react 
 
