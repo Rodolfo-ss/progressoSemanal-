@@ -16,6 +16,7 @@ Foco essa semana => fazer está semana:
 
 
 1- Criar um CRUD
+2- Fazer uma landing page bem bonita
 2- Continuar portifolio
 3 - Continuar o CJRM - CHECKED
 4 - Fazer o SuperDesenvolvedor no JS - CHECKED
