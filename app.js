@@ -16,12 +16,11 @@ Foco essa semana => fazer está semana:
 
 
 1- Criar um CRUD
-
-1 - Continuar o CJRM - CHECKED
-2 - Fazer o SuperDesenvolvedor no JS - CHECKED
-2 - Voltar a fazer o SuperDesenvolvedor com Ruby CHECKED
-3 - Dar um pega no Portifolio(amanha)
-4 - Começar a aprender react 
+2- Continuar portifolio
+3 - Continuar o CJRM - CHECKED
+4 - Fazer o SuperDesenvolvedor no JS - CHECKED
+5 - Voltar a fazer o SuperDesenvolvedor com Ruby CHECKED
+6  - Começar a aprender react 
 
 
 Marque como feito após e apague:
