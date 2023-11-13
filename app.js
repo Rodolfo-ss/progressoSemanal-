@@ -14,6 +14,9 @@ A fazer =>
 
 Foco essa semana => fazer está semana: 
 
+
+1- Criar um CRUD
+
 1 - Continuar o CJRM - CHECKED
 2 - Fazer o SuperDesenvolvedor no JS - CHECKED
 2 - Voltar a fazer o SuperDesenvolvedor com Ruby CHECKED
