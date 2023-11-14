@@ -12,13 +12,14 @@ A fazer =>
 
 /*
 
+Hoje - dormir cedo 
 Foco essa semana => fazer está semana: 
 
 
-1- Criar um CRUD
-2- Fazer uma landing page bem bonita
+1- Criar um CRUD, feito
+2- Fazer uma landing page bem bonita, Amanha
 2- Continuar portifolio
-3 - Continuar o CJRM - CHECKED
+3 - Continuar o CJRM - Amanha
 4 - Fazer o SuperDesenvolvedor no JS - CHECKED
 5 - Voltar a fazer o SuperDesenvolvedor com Ruby CHECKED
 6  - Começar a aprender react 
