@@ -3,8 +3,9 @@
 Caixa de entrada:
 A fazer => 
 
-1 - Missao vaga(Em andamento)
-2 - Revisao CJRM(Em andamento)
+1 - Nova Prioridade(portifolio)
+2 - Missao vaga(Em andamento)
+3 - Revisao CJRM(Em andamento)
 4 - Pull request e branchs(Em andamento)
 5 - Quando for fazer portifolio faça tudo de uma vez(Amanhã)
 
