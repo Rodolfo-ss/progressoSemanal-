@@ -16,9 +16,8 @@ A fazer =>
 Foco essa semana => fazer está semana: 
 
 
-1- Criar um CRUD, feito, Refazer o Crud
+1- Criar um CRUD, feito, Refazer o Crud(Feito)
 2- Fazer uma landing page bem bonita(começar agora)
-2- Continuar portifolio
 3 - Continuar o CJRM - Amanha
 4 - Fazer o SuperDesenvolvedor no JS - CHECKED
 5 - Voltar a fazer o SuperDesenvolvedor com Ruby CHECKED
