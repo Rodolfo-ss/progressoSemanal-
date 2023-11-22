@@ -3,6 +3,7 @@
 Caixa de entrada:
 A fazer => 
 
+0 -Fazer um projeto proprio por semana(com responsividade)
 1 - Nova Prioridade(portifolio)
 2 - Missao vaga(Em andamento)
 3 - Revisao CJRM(Em andamento)
