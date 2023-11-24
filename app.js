@@ -3,7 +3,7 @@
 Caixa de entrada:
 A fazer => 
 
-0 -Fazer um projeto proprio por semana(com responsividade)
+0 - Fazer um projeto proprio por semana(com responsividade)
 1 - Nova Prioridade(portifolio)
 2 - Missao vaga(Em andamento)
 3 - Revisao CJRM(Em andamento)
@@ -18,7 +18,7 @@ Foco essa semana => fazer está semana:
 
 
 1- Criar um CRUD, feito, Refazer o Crud(Feito)
-2- Fazer uma landing page bem bonita(começar agora)
+2- Fazer uma landing page bem bonita(feito)
 3 - Continuar o CJRM - Amanha
 4 - Fazer o SuperDesenvolvedor no JS - CHECKED
 5 - Voltar a fazer o SuperDesenvolvedor com Ruby CHECKED
