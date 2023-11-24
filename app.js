@@ -16,7 +16,7 @@ A fazer =>
 
 Foco essa semana => fazer está semana: 
 
-
+0 - Refazer o CRUD
 1- Criar um CRUD, feito, Refazer o Crud(Feito)
 2- Fazer uma landing page bem bonita(feito)
 3 - Continuar o CJRM - Amanha
