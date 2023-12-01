@@ -4,7 +4,7 @@ Caixa de entrada:
 A fazer => 
 
 0 - Fazer um projeto proprio por semana(com responsividade)
-1 - Nova Prioridade(portifolio)
+1 - Nova Prioridade(portifolio)Amanha
 2 - Missao vaga(Em andamento)
 3 - Revisao CJRM(Em andamento)
 4 - Pull request e branchs(Em andamento)
