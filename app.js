@@ -7,7 +7,7 @@ A fazer =>
 1 - Nova Prioridade(portifolio)Amanha
 2 - Missao vaga(Em andamento)
 3 - Revisao CJRM(Em andamento)
-4 - Pull request e branchs(Em andamento)
+4 - Pull request e branchs(Em andamento)a
 5 - Quando for fazer portifolio faça tudo de uma vez(Amanhã)
 
 */
