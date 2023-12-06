@@ -9,7 +9,7 @@ A fazer =>
 3 - Revisao CJRM(Em andamento)
 4 - Pull request e branchs(Em andamento)
 5 - Quando for fazer portifolio faça tudo de uma vez(Amanhã)
-
+a
 */
 
 /*
