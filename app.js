@@ -1,7 +1,6 @@
 /*
 
 Caixa de entrada:
-A fazer => 
 
 0 - Fazer um projeto proprio por semana(com responsividade)Continuar agora
 1 - Nova Prioridade(portifolio)Amanha
