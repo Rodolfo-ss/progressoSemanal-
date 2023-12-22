@@ -2,7 +2,7 @@
 
 Caixa de entrada:
 
-0 - Fazer um projeto proprio por semana(com responsividade)Continuar agora
+0 - Fazer um projeto proprio por semana
 1 - Nova Prioridade(portifolio)Amanha
 2 - Missao vaga(Em andamento)
 3 - Revisao CJRM(Em andamento)
